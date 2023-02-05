@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Personal Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Samarth Ramakant Sarvade</h1>
+      <img src="C:\Users\Samarth Sarvade\Downloads\beautiful.jpg" alt="My Profile Picture">
+      <p>A brief introduction about myself.</p>
+    </header>
+    <main>
+      <h2>My Work Samples</h2>
+      <div class="project">
+        <h3>Project 1</h3>
+        <img src="C:\Users\Samarth Sarvade\Downloads\beautiful1.jpg" alt="Project 1">
+        <p>A brief description of Project 1.</p>
+      </div>
+      <div class="project">
+        <h3>Project 2</h3>
+        <img src="C:\Users\Samarth Sarvade\Downloads\beautiful2.jpg" alt="Project 2">
+        <p>A brief description of Project 2.</p>
+      </div>
+      <h2>My Skills</h2>
+      <ul>
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+        <li>Skill 3</li>
+      </ul>
+    </main>
+    <footer>
+      <p>Contact me at:</p>
+      <a href="samarthsarvade3@gmail.com">samarthsarvade3@gmail.com</a>
+      <p>Phone: +91-7058433801</p>
+    </footer>
+  </body>
+</html>
